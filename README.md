@@ -1,6 +1,6 @@
 # Hi, I'm Yash Sonawane! 👋
 
-![Profile Banner](https://i.imgur.com/TzuuACy.jpeg)
+![Profile Banner](https://imgur.com/a/3u2qSXW.jpeg)
 
 🚀 Passionate about **Full-Stack Development, AI/ML, and building innovative solutions**.  
 🔥 Proficient in **Java, Python, C++, JavaScript, Django, Spring Boot, React**.  
